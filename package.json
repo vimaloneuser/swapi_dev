@@ -1,6 +1,6 @@
 {
   "name": "swapi.dev",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "swapi apis ",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vimal-PatelIPS/swapi.dev.git"
+    "url": "git+https://github.com/vimaloneuser/swapi_dev.git"
   },
   "bugs": {
-    "url": "https://github.com/Vimal-PatelIPS/swapi.dev/issues"
+    "url": "https://github.com/vimaloneuser/swapi_dev/issues"
   },
-  "homepage": "https://github.com/Vimal-PatelIPS/swapi.dev#readme"
+  "homepage": "https://github.com/vimaloneuser/swapi_dev#readme"
 }

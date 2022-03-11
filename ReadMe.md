@@ -1,5 +1,7 @@
 # How to installation
-npm i swapi.dev
+```js live=true
+$ npm i swapi.dev
+```
 
 # Usage
 ```js live=true
